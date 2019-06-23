@@ -1,4 +1,6 @@
-baseurl = "https://www.alliafi.com"
+# Deployment settings
+baseurl = "biggihs.github.io/alliafi/"
+
 title = "Alli á mjólkurbílnum"
 theme = "hugo-coder"
 languagecode = "is"
