@@ -11,22 +11,8 @@
     frá morgni til sólarlags.  <br>
     Smiður sem aldrei átti,  <br>
     efni til næsta dags.  <br>
-    {{ with .Site.Params.social }}
-    <ul>
-      {{ range sort .}}
-        {{ if .icon }}
-          <li>
-            <a href="{{ .url }}" aria-label="{{ .name }}">
-              <i class="{{ .icon }}" aria-hidden="true"></i>
-            </a>
-          </li>
-        {{ else }}
-          <li>
-            <a href="{{ .url }}" aria-label="{{ .name }}">{{ .name }}</a>
-          </li>
-        {{ end }}
-      {{ end }}
-    </ul>
-    {{ end }}
+    <p>
+    {{ .Site.Params.description}}
+    </p>
   </div>
 </section>

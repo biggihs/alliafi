@@ -1,0 +1,12 @@
++++
+draft = false
+title = "Morgunleikfimi"
+description = ""
+slug = ""
+externalLink = ""
++++
+
+Andagift mig alveg sveik  
+eitt ég mundi en gleymdi hinu  
+þegar konur læraleik  
+léku djarft í útvarpinu  

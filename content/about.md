@@ -5,5 +5,4 @@ title = "Um Aðalstein"
 slug = ""
 +++
 
-# WHAMY
 Hér mætti koma texti um Alla.

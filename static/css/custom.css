@@ -1,0 +1,9 @@
+.container.list span.description{
+  display:block;
+  margin-left:20px;
+  font-size:14px;
+}
+
+.content{
+  margin-bottom:0px;
+}

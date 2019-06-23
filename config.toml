@@ -11,13 +11,13 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "alliamjolkurbilnum"
+# disqusShortname = "alliamjolkurbilnum"
 
 [params]
     author = "Aðalsteinn Ólafsson"
     info = "Melgerði, Eyjarfirði. 1917 - 1998"
     description = "Þessi síða heldur utan um ljóð eftir hann afa minn, Aðalstein Ólafsson"
-    keywords = "blog,developer,personal"
+    keywords = "poet"
     avatarurl = "images/Alli.jpg"
 
     favicon_32 = "/img/favicon-32x32.png"
