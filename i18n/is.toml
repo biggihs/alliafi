@@ -1,0 +1,24 @@
+[category]
+other = "category"
+
+[tag]
+other = "tag"
+
+[series]
+other = "series"
+
+[reading_time]
+one = "Einnar mínútu lestur."
+other = "Tekur {{ .Count }} mínútur að lesa."
+
+[page_not_found]
+other = "Þessi síða fannst ekki."
+
+[page_does_not_exist]
+other = "Því miður þá er þessi síða ekki til."
+
+[head_back]
+other = "Smelltu <a href=\"{{ . }}\">hér</a> til að fara aftur á forsíðuna."
+
+[powered_by]
+other = "Knúið af"

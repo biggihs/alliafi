@@ -1,0 +1,9 @@
++++
+draft = true
+date = 2019-06-22T17:37:48-04:00
+title = "Um Aðalstein"
+slug = ""
++++
+
+# WHAMY
+Hér mætti koma texti um Alla.

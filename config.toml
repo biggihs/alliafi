@@ -1,29 +1,29 @@
-baseurl = "http://www.example.com"
-title = "johndoe"
+baseurl = "https://www.alliafi.com"
+title = "Alli á mjólkurbílnum"
 theme = "hugo-coder"
-languagecode = "en"
-defaultcontentlanguage = "en"
+languagecode = "is"
+defaultcontentlanguage = "is"
 
-paginate = 20
+paginate = 100
 canonifyurls = true
 
 pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
+disqusShortname = "alliamjolkurbilnum"
 
 [params]
-    author = "John Doe"
-    info = "Full Stack DevOps and Magician"
-    description = "John Doe's personal website"
+    author = "Aðalsteinn Ólafsson"
+    info = "Melgerði, Eyjarfirði. 1917 - 1998"
+    description = "Þessi síða heldur utan um ljóð eftir hann afa minn, Aðalstein Ólafsson"
     keywords = "blog,developer,personal"
-    avatarurl = "images/avatar.jpg"
+    avatarurl = "images/Alli.jpg"
 
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
-    footercontent = "Enter a text here."
+    footercontent = "Viðhaldið af Birgi Hrafni Sigurðssyni"
 
     hidecredits = false
     hidecopyright = false
@@ -34,28 +34,28 @@ disqusShortname = "yourdiscussshortname"
     custom_css = ["css/custom.css"]
 
 # Social links
-[[params.social]]
-    name = "Github"
-    icon = "fab fa-github fa-2x"
-    weight = 1
-    url = "https://github.com/johndoe/"
-[[params.social]]
-    name = "Gitlab"
-    icon = "fab fa-gitlab fa-2x"
-    weight = 2
-    url = "https://gitlab.com/johndoe/"
-[[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter fa-2x"
-    weight = 3
-    url = "https://twitter.com/johndoe/"
+# [[params.social]]
+#     name = "Github"
+#     icon = "fab fa-github fa-2x"
+#     weight = 1
+#     url = "https://github.com/johndoe/"
+# [[params.social]]
+#     name = "Gitlab"
+#     icon = "fab fa-gitlab fa-2x"
+#     weight = 2
+#     url = "https://gitlab.com/johndoe/"
+# [[params.social]]
+#     name = "Twitter"
+#     icon = "fab fa-twitter fa-2x"
+#     weight = 3
+#     url = "https://twitter.com/johndoe/"
 
 # Menu links
 [[menu.main]]
-    name = "Blog"
+    name = "Ljóð"
     weight = 1
     url  = "/posts/"
 [[menu.main]]
-    name = "About"
+    name = "Um Alla"
     weight = 2
     url = "/about/"
