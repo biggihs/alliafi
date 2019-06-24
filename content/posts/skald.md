@@ -11,3 +11,5 @@ og hlýða þeim ráðum sem himininn gaf
 að hlæja með glöðum á gæfunnar vegi  
 en gráta með hryggum á sorganna degi  
 og skýra þann vísdóm sem einn lifir af.  
+
+- - - -

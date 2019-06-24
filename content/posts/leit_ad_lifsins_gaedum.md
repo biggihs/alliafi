@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Í leif að lífsins gæðum"
+title = "Í leit að lífsins gæðum"
 description = ""
 slug = ""
 externalLink = ""
@@ -9,3 +9,5 @@ externalLink = ""
 við langan förum veg.  
 Við yl af ástarglæðum,  
 þar ætíð studdist ég.  
+
+- - - -

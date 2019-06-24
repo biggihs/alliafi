@@ -18,3 +18,7 @@ Við athugun sagna mér oft hefur virst
 því sjálfur ég trúi og öðrum það kenni  
 að skaparinn kæmi upp konunni fyrst  
 og karlmanninn síðan hann ætti með henni  
+
+- - - -
+
+_Heimild: Eyfirskur fróðleikur og gamanmál. 1. Bindi, Kvæði og stökur I_

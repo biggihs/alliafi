@@ -34,3 +34,7 @@ hámerar og karfa til að bjarga vorri þjóð.
 þorskastríð við Breta með sóma unnum við,  
 af þorskum erum komin, að þorskum munum verða  
 svo þorskstofninn mun lifa en hefst á æðra svið.
+
+- - - -
+
+_Heimild: Eyfirskur fróðleikur og gamanmál. 1. Bindi, Kvæði og stökur I_

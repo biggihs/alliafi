@@ -14,3 +14,5 @@ Við þurfum ekki að leita sólarlanda,
 í lágu hreysi er vistin okkur góð.  
 Í félagsskap má auðga sérhvern anda,  
 iðka söng og túlka fögur ljóð.  
+
+- - - -

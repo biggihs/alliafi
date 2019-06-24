@@ -9,3 +9,5 @@ Rýnt er í myrkrið en hugsað um hitt
 heimurinn sýnist ei fagur.  
 Enda er sjötugs afmælið mitt  
 ársins svartasti dagur.  
+
+- - - -

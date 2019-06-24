@@ -22,3 +22,7 @@ hjá konu jafnt sem mey.
 það ekki breytist neitt,  
 við elskum alltaf margar,  
 en enga nógu heitt.  
+
+- - - -
+
+_Heimild: Eyfirskur fróðleikur og gamanmál. 1. Bindi, Kvæði og stökur I_

@@ -14,3 +14,5 @@ externalLink = ""
 ég beið þín dimma nótt  
 þú komst með kraft frá braga  
 það kjör mín bætti skjótt  
+
+- - - -

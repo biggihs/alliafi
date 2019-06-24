@@ -31,3 +31,7 @@ segja alvöru og raunsæis menn
 engu skiptir hve mörg verða spor  
 ef að loksins það finnst sem að leitað er að   
 þetta ljósríka heillandi vor  
+
+- - - -
+
+_Heimild: Eyfirskur fróðleikur og gamanmál. 1. Bindi, Kvæði og stökur I_

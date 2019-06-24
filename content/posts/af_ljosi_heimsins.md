@@ -11,3 +11,5 @@ um götuskorninga leið mín lá,
 langt fyrir neðan mannabyggðir.  
 Um skömm og heiðar ég skeytti lítt,  
 skríðandi fór um holt og mýrar.  
+
+- - - -

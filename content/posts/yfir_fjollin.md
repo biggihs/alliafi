@@ -44,3 +44,7 @@ yfir fjöllin.
 Það ríða hetjur um hérað enn,  
 hesta-, drykkju- og kvennamenn  
 yfir fjöllin.  
+
+- - - -
+
+_Heimild: Eyfirskur fróðleikur og gamanmál. 1. Bindi, Kvæði og stökur I_

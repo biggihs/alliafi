@@ -22,3 +22,5 @@ En hvenær ætlar hin Íslenska þjóð
 að opna sinn glugga til fulls.  
 Svo frjálsir menn geta fundið sér slóð  
 án frekju valda og gulls  
+
+- - - -

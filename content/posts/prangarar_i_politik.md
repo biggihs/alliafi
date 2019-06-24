@@ -9,3 +9,5 @@ Prangarar í pólitík,
 pretta og snuða sína vini.  
 Kenna slíkt í keflavík,  
 Karli Steinari Guðmundssyni.  
+
+- - - -

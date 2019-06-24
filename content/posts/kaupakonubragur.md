@@ -32,3 +32,7 @@ við svikular minningar hjörtun sig gleðja,
 Í svartnætti helkaldra haustnæturbylja  
 mér hálfpartinn leiðist, er strákarnir þylja  
 sitt kátlega kvennafarsraup.  
+
+- - - -
+
+_Heimild: Eyfirskur fróðleikur og gamanmál. 1. Bindi, Kvæði og stökur I_

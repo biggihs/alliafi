@@ -7,10 +7,14 @@ externalLink = ""
 +++
 Til silungsveiða konur kunna lítið  
 og kraftinn missa tálbeiturnar þar.  
-Því urriðarnir en hvað það er skrítið,  
+Því urriðarnir, en hvað það er skrítið,  
 þeir eru hyggnir þessir smáfiskar.  
 
 Það stoðar ei þótt vel þær köstin vandi,  
 í vatnsfall þar sem flúðin beljar ströng.  
 En geta dregið þorsk á þurru landi  
 og þurfa hvorki færi eða stöng.  
+
+- - - -
+
+_Heimild: Eyfirskur fróðleikur og gamanmál. 1. Bindi, Kvæði og stökur I_

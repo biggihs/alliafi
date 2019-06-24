@@ -32,3 +32,5 @@ Skal ekki sóa honum.
 að þroska krafta sína.  
 Og finna gull á feðra slóð  
 En frelsi engu tína.  
+
+- - - -

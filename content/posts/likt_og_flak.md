@@ -14,3 +14,5 @@ Oft það sem mig heillað áður hafði
 hrundi og er sem fánýt glópska nú.  
 Stefna ný um þol og þrek mig krafði  
 þraut og sæla varð hin nýja trú.  
+
+- - - -

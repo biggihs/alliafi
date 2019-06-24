@@ -1,6 +1,6 @@
 +++
 draft = false
-title = ""
+title = "Kvennafarsríma"
 description = ""
 slug = ""
 externalLink = ""
@@ -39,3 +39,7 @@ Ritning kennir menn hvað mega,
 en máttu rhennar dvín.  
 Gleði tvenna allir eiga:  
 Ást og brennivín.  
+
+- - - -
+
+_Heimild: Eyfirskur fróðleikur og gamanmál. 1. Bindi, Kvæði og stökur I_

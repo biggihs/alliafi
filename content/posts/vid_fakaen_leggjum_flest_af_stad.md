@@ -19,3 +19,5 @@ hvar endar hún fæst ekkert val,
 sem yfir landamærin fer,  
 en víst ég tel að vinar hönd  
 þar vísi inn á sólarströnd.  
+
+- - - -

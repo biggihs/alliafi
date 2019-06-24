@@ -24,3 +24,7 @@ Skyldi ekki skáldsins tunga
 skilningsríkust veita svör?  
 Aldrei getur ækið þunga  
 yfirbugað gæðings fjör.  
+
+- - - -
+
+_Heimild: Eyfirskur fróðleikur og gamanmál. 1. Bindi, Kvæði og stökur I_

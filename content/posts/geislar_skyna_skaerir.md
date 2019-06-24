@@ -14,3 +14,5 @@ Vakir von í hjarta,
 velur hver sitt fag.  
 Blómaveldið bjarta,  
 býður nýjan dag.  
+
+- - - -

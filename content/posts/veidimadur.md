@@ -44,3 +44,7 @@ Fræðimenn fáir skrifa
 um framhaldslíf nú á dögum  
 þó munu látnir lifa  
 laxar í veiðisögum.  
+
+- - - -
+
+_Heimild: Eyfirskur fróðleikur og gamanmál. 1. Bindi, Kvæði og stökur I_
