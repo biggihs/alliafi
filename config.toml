@@ -1,5 +1,5 @@
 # Deployment settings
-baseurl = "biggihs.github.io/alliafi/"
+# baseurl = "alliafi.com"
 
 title = "Alli á mjólkurbílnum"
 theme = "hugo-coder"
@@ -18,7 +18,8 @@ pygmentscodefencesguesssyntax = true
 [params]
     author = "Aðalsteinn Ólafsson"
     info = "Melgerði, Eyjarfirði. 1917 - 1998"
-    description = "Þessi síða heldur utan um ljóð eftir hann afa minn, Aðalstein Ólafsson"
+    description = ""
+    # description = "Þessi síða heldur utan um ljóð eftir hann afa minn, Aðalstein Ólafsson"
     keywords = "poet"
     avatarurl = "images/Alli.jpg"
 
