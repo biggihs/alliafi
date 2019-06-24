@@ -1,5 +1,5 @@
 # Deployment settings
-# baseurl = "alliafi.com"
+baseurl = "https://alliafi.com"
 
 title = "Alli á mjólkurbílnum"
 theme = "hugo-coder"
