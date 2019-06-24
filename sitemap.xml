@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/kvennafarsrima/</loc>
-  </url>
-  
-  <url>
     <loc>/posts/af_ljosi_heimsins/</loc>
   </url>
   
@@ -33,6 +29,10 @@
   </url>
   
   <url>
+    <loc>/posts/eldsneytiskerfi/</loc>
+  </url>
+  
+  <url>
     <loc>/posts/fjarmagnsgata/</loc>
   </url>
   
@@ -41,7 +41,19 @@
   </url>
   
   <url>
+    <loc>/posts/gydjan/</loc>
+  </url>
+  
+  <url>
     <loc>/posts/gata/</loc>
+  </url>
+  
+  <url>
+    <loc>/posts/gatur/</loc>
+  </url>
+  
+  <url>
+    <loc>/posts/goda_nott/</loc>
   </url>
   
   <url>
@@ -49,11 +61,27 @@
   </url>
   
   <url>
+    <loc>/posts/helgi_magri/</loc>
+  </url>
+  
+  <url>
     <loc>/posts/holdid_er_veikt/</loc>
   </url>
   
   <url>
+    <loc>/posts/husmaedrarskolinn/</loc>
+  </url>
+  
+  <url>
     <loc>/posts/kaupakonubragur/</loc>
+  </url>
+  
+  <url>
+    <loc>/posts/kroflugos/</loc>
+  </url>
+  
+  <url>
+    <loc>/posts/kvennafarsrima/</loc>
   </url>
   
   <url>
@@ -110,12 +138,24 @@
   </url>
   
   <url>
+    <loc>/posts/stokur/</loc>
+  </url>
+  
+  <url>
+    <loc>/posts/sumarnott/</loc>
+  </url>
+  
+  <url>
     <loc>/posts/sarin_graeda/</loc>
   </url>
   
   <url>
     <loc>/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/til_sigridar_schioth/</loc>
   </url>
   
   <url>
@@ -140,6 +180,10 @@
   
   <url>
     <loc>/posts/a_sumardegi_glodum/</loc>
+  </url>
+  
+  <url>
+    <loc>/posts/vid_vitann/</loc>
   </url>
   
   <url>
