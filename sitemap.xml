@@ -3,11 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://alliafi.com/about/</loc>
+    <lastmod>2019-06-22T17:37:48-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://alliafi.com/posts/af_ljosi_heimsins/</loc>
   </url>
   
   <url>
     <loc>https://alliafi.com/</loc>
+    <lastmod>2019-06-22T17:37:48-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -34,6 +40,10 @@
   
   <url>
     <loc>https://alliafi.com/posts/fjarmagnsgata/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alliafi.com/posts/geislar_skyna_skaerir/</loc>
   </url>
   
   <url>

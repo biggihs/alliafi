@@ -6,9 +6,19 @@
     <description>Recent content on Alli á mjólkurbílnum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>is</language>
+    <lastBuildDate>Sat, 22 Jun 2019 17:37:48 -0400</lastBuildDate>
     
 	<atom:link href="https://alliafi.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Um Aðalstein</title>
+      <link>https://alliafi.com/about/</link>
+      <pubDate>Sat, 22 Jun 2019 17:37:48 -0400</pubDate>
+      
+      <guid>https://alliafi.com/about/</guid>
+      <description>Hér mætti koma texti um Alla.</description>
+    </item>
     
     <item>
       <title>Af ljósi heimsins</title>
@@ -110,6 +120,22 @@ Heimild: Eyfirskur fróðleikur og gamanmál. 1. Bindi, Kvæði og stökur I</de
 gullið hvergi flýtur.
 þreytt við falskan þrastarsöng
 þjóðin vakna hlýtur.</description>
+    </item>
+    
+    <item>
+      <title>Geislar skýna skærir</title>
+      <link>https://alliafi.com/posts/geislar_skyna_skaerir/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alliafi.com/posts/geislar_skyna_skaerir/</guid>
+      <description>Geislar skína skærir,
+skuggar missa völd.
+Friður þreyttum færir,
+fagurt ævikvöld.
+Vakir von í hjarta,
+velur hver sitt fag.
+Blómaveldið bjarta,
+býður nýjan dag.</description>
     </item>
     
     <item>
