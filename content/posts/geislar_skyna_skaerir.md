@@ -1,7 +1,7 @@
 +++
-draft = true
+draft = false
 title = "Geislar skýna skærir"
-description = "Þetta orti afi þegar amma dó."
+description = ""
 slug = ""
 externalLink = ""
 +++
