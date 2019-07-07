@@ -7,3 +7,11 @@
 .content{
   margin-bottom:0px;
 }
+
+img[src$='#center']
+{
+    display: block;
+    margin: 0 auto;
+    padding: 3px;
+    border: 1px solid silver;
+}
