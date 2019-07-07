@@ -13,3 +13,5 @@ Svo tökum vi ðundir hið ljúfasta lag,
 sem lóurnar syngja og þrestirnir kvaka.  
 - - - -
 Heimild: Hún hangir upp á vegg hjá Rögnu Árný Björnsdóttur. :)
+
+![Við færum þér afmælisóskir í dag](/images/birna_kristin_50_ara.jpg#center)

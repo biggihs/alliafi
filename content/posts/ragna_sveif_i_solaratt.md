@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Ragna er ung með rjóðar kinnar."
+title = "Ragna sveif í sólarátt á sumar degi."
 description = "Afi sendi mörgum vísur á jóla og afmæliskortum. Þessa fékk Ragna 1977."
 slug = ""
 externalLink = ""
