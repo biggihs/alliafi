@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Geislar"
-description = "Þessi er handskrifuð á bréfsnepil sem ég reyndi að rita upp af. "
+description = ""
 slug = ""
 externalLink = ""
 +++
@@ -18,3 +18,5 @@ með sínu lagi yrkja og njóta
 Heimild:
 
 ![Geislar](/images/geislar.jpg#center)
+
+<Pabba minnir að Afi hafi sagt sér sem fullorðnum manni að þessi vísa væri um konu sem hann var ástfanginn af en hún dó þegar hann var ungur.>
