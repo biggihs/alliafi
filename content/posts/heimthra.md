@@ -11,3 +11,7 @@ ef fæ ég þá enn til að hlíða.
 Örlaga dísirnar bíða.  
 
 - - - -
+
+Heimild:
+
+![Heimþrá](/images/heimthra.jpg#center)
